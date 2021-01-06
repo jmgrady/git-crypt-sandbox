@@ -1,0 +1,3 @@
+*vault* filter=git-crypt diff=git-crypt
+*priv* filter=git-crypt diff=git-crypt
+*secret* filter=git-crypt diff=git-crypt
